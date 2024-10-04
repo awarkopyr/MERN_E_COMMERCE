@@ -13,8 +13,8 @@ orderRouter.post('/status', adminAuth ,updateStatus)
 ///User//////
 
 orderRouter.post('/place', authUser  ,placeOrder)
-orderRouter.post('/stripe', authUser  ,placeOrderStripe)
-orderRouter.post('/razorpay', authUser  ,placeOrderRazorPay)
+// orderRouter.post('/stripe', authUser  ,placeOrderStripe)
+// orderRouter.post('/razorpay', authUser  ,placeOrderRazorPay)
 
 
 orderRouter.post('/userorders',authUser, userOrders)
