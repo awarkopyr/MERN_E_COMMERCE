@@ -17,7 +17,7 @@ const Navbar = () => {
 
   return (
     <div className='flex items-center justify-between py-5 font-medium'>
-      <Link to='/'><img src={assets.logo} className='w-36' alt="" /></Link>
+      <Link to='/'><img src={assets.ZEN_G_LOGO_WHITE} className='w-[5rem] sm:w-[7rem]' alt="" /></Link>
 
       <ul className='hidden sm:flex gap-5 text-sm text-gray-700'>
         <NavLink className='flex flex-col items-center gap-1' to='/'>
