@@ -7,7 +7,7 @@ const Footer = () => {
             <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm text-start'>
                 <div>
                     <img src={assets.ZEN_G_LOGO_WHITE} className='mb-5 w-32' alt="" />
-                    <p className='w-full md:w-2/3 text-gray-600 text-start'>example goes here detail and other</p>
+                    <p className='w-full md:w-2/3 text-gray-600 text-start'>The voice of Gen Z, printed on a tee. Bold designs, unapologetic vibes, and trending styles for the ones who keep it real. Wear your mood, express your truth, and rep the culture.</p>
                 </div>
                 <div>
                     <p className='text-xl font-medium mb-5'>COMPANY</p>
