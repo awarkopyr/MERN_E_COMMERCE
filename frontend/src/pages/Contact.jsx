@@ -10,13 +10,13 @@ const Contact = () => {
           <div className='border-y border-gray-600'>
             Via Phone
             <div className='flex items-center justify-center py-6 my-6'>
-              <p className='text-sm sm:text-2xl'>+8801966649031</p>
+              <p className='text-sm sm:text-2xl'>+8801622790628</p>
             </div>
           </div>
           <div className='border-y border-gray-600'>
             Via Mail
             <div className='flex items-center justify-center py-6 my-6'>
-              <p className='text-sm sm:text-2xl'>awarkohm2002@gmail</p>
+              <p className='text-sm sm:text-2xl'>fashion.gzen@gmail.com</p>
             </div>
           </div>
           <div className='border-y border-gray-600'>
